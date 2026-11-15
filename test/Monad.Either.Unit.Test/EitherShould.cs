@@ -1,8 +1,4 @@
-using System;
-using Shouldly;
-using Xunit;
-
-namespace Monad.Maybe.Unit.Test;
+namespace Monad.Either.Unit.Test;
 
 public class EitherShould
 {
