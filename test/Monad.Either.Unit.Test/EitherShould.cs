@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace Monad.Either.Unit.Test;
 
 public class EitherShould
